@@ -1,7 +1,6 @@
 .conda
 plantvillage
 deployment_info.json
-README.md
 .github
 __pycache__
 crop_disease_model.keras
